@@ -6,6 +6,14 @@ Sistema web full-stack diseñado para centralizar la gestión operativa de consu
 
 ---
 
+## Capturas
+
+![Login](docs/capturas/Captura_de_pantalla_Login.png)
+![Pacientes](docs/capturas/Captura_de_pantalla_Pacientes.png)
+![Panel Principal](docs/capturas/Captura_de_pantalla_Panel_Principal.png)
+![Captura PDF](docs/capturas/Captura_de_pantalla_PDF_Plan.png)
+![Planes Alimenticios](docs/capturas/Captura_de_pantalla_Planes_Alimenticios.png)
+
 ## Funcionalidades Principales
 
 - **Autenticación y roles con JWT + bcryptjs** (soporte multi-profesional: cada nutricionista gestiona su propio consultorio aislado).
